@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\projectC#\pharmacy management\pharmacy management\bin\Debug\pharmacy management.exe.config
+C:\Users\Administrator\Desktop\projectC#\pharmacy management\pharmacy management\bin\Debug\pharmacy management.exe
+C:\Users\Administrator\Desktop\projectC#\pharmacy management\pharmacy management\bin\Debug\pharmacy management.pdb
+C:\Users\Administrator\Desktop\projectC#\pharmacy management\pharmacy management\obj\Debug\pharmacy management.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\projectC#\pharmacy management\pharmacy management\obj\Debug\pharmacy_management.pharmacy.resources
+C:\Users\Administrator\Desktop\projectC#\pharmacy management\pharmacy management\obj\Debug\pharmacy_management.Properties.Resources.resources
+C:\Users\Administrator\Desktop\projectC#\pharmacy management\pharmacy management\obj\Debug\pharmacy management.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\projectC#\pharmacy management\pharmacy management\obj\Debug\pharmacy management.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\projectC#\pharmacy management\pharmacy management\obj\Debug\pharmacy management.exe
+C:\Users\Administrator\Desktop\projectC#\pharmacy management\pharmacy management\obj\Debug\pharmacy management.pdb
+C:\Users\Administrator\Desktop\projectC#\pharmacy management\pharmacy management\obj\Debug\pharmacy_management.Home.resources
+C:\Users\Administrator\Desktop\projectC#\pharmacy management\pharmacy management\obj\Debug\pharmacy_management.Medicine.resources
